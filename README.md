@@ -1,4 +1,5 @@
-# SimulaTEr
+# SimulaTEr [![DOI](https://zenodo.org/badge/101826386.svg)](https://zenodo.org/badge/latestdoi/101826386)
+
 A program to simulate capture-recapture histories under the TE (temporary emigration) model. 
 Please note: The program runs under Windows only. To run it, simply copy SimulaTEr.exe to a folder on your hard drive folder and double-click it.
 
